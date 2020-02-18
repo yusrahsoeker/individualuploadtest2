@@ -1,7 +1,7 @@
 package za.co.cput.maven;
 
 /**
- * Hello world!
+ * HighestNumberOf3
  * Author: Amy Johnston (218188773)
  */
 public class App 
@@ -12,6 +12,7 @@ public class App
         int b = 313;
         int c = 90;
         
+        System.out.print("Out of; " + a + ", " + b + ", and" + c + " the highest number is: ");
         System.out.println(Math.max(Math.max(a, b), c));
     }
 }
