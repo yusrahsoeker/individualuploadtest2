@@ -25,6 +25,6 @@ public class App
         printStars(n); 
     } 
 } 
-        System.out.println( "Hello! \n This is an edit done by Yusrah Soeker :)");
+        System.out.println( "Hello! \n This is an edit done by Yusrah Soeker :) \n I cloned, forked and modified Amy's application");
     }
 }
